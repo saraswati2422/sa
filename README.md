@@ -1,1 +1,2 @@
 "polytechnic clg" 
+"mundgod college" 
